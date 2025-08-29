@@ -1,16 +1,16 @@
 # Alx-about-me
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">Learner @ ALX Software Engineering | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Learner @ ALX | PDU | TechXos | UI/UX Designer | Aspiring Full-Stack Engineer</h3>
 
 ---
 
 ## 💡 About Me  
 
-- 🎓 Currently learning **Software Engineering** at **ALX**  
+- 🎓 Currently learning **UI/UX Design & Software Engineering** through **ALX, PDU, and TechXos**  
 - 🌱 Passionate about **building scalable apps, open-source collaboration, and impactful digital solutions**  
-- ✨ Inspired by **using technology to solve real-world problems and improve everyday lives**  
-- 🎯 My vision: **to become a world-class full-stack engineer who builds products that empower communities and businesses**  
+- ✨ Inspired by **technology’s ability to solve real-world problems and empower communities**  
+- 🎯 My aim: **to become a world-class full-stack engineer who builds products that empower businesses and people**  
 - 💻 I’d like to work on **open-source projects, fintech applications, and full-stack web development**  
 
 ---
@@ -18,6 +18,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react" />
@@ -31,9 +32,10 @@
 ## 🚀 Projects Showcase  
 
 ### 🔹 Featured Projects  
-- 🏡 [**AirBnB Clone**](#) — A full-stack clone of AirBnB built with Django & React.  
-- 💳 [**Fintech API**](#) — REST API for secure mobile money transactions and payments.  
-- 📱 [**Fashion E-commerce App**](#) — Mobile-first modest fashion app with curated outfits.  
+- 🏡 [**AirBnB Clone**](#) — A full-stack accommodation booking platform (Django & React).  
+- 💳 [**Fintech API**](#) — REST API for secure mobile money transactions.  
+- 🎨 [**UI/UX Design System**](#) — A reusable design system for web/mobile apps.  
+- 📱 [**Fashion E-commerce App**](#) — Mobile-first app featuring curated outfits & secure checkout.  
 
 👉 Explore more in my [Repositories](https://github.com/your-username?tab=repositories).  
 
@@ -67,4 +69,3 @@
 
 ---
 
----
